@@ -1,8 +1,26 @@
 aid: carrot
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/carrot.png
 name: Carrot
-description: 'Carrot is a company surfaced as a portfolio company of crv and added to the API Evangelist
-  network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Carrot is a global fertility and family-building benefits platform that
+  helps employers, health plans, benefits consultants, and labor unions offer inclusive
+  reproductive care to their members. Carrot supports the full journey — preconception,
+  IVF and IUI, egg, sperm, and embryo preservation, gestational surrogacy, adoption,
+  pregnancy and postpartum care, men''s health, and hormonal and menopause support
+  — across 175+ countries and 17,000+ providers. Products include Carrot Intelligence
+  (an AI clinical platform), Carrot Rx medication sourcing, the Carrot Card payment
+  solution, and Carrot Sprints metabolic-fertility programs. Backed by CRV; added
+  to the API Evangelist network from VC portfolio enrichment.'
 url: https://raw.githubusercontent.com/api-evangelist/carrot/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Healthcare
+- Fertility
+- Family Building
+- Employee Benefits
+- Reproductive Health
+- Health Plans
+- Menopause
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.get-carrot.com/
+- type: Blog
+  url: https://www.get-carrot.com/blog
+- type: Support
+  url: https://www.get-carrot.com/contact-us
+- type: Login
+  url: https://app.get-carrot.com/
+- type: TermsOfService
+  url: https://www.get-carrot.com/terms-conditions
+- type: PrivacyPolicy
+  url: https://www.get-carrot.com/privacy-policy
+- type: TrustCenter
+  url: security/carrot-trust-center.yml
+- type: Compliance
+  url: https://www.get-carrot.com/trust-center
+- type: DomainSecurity
+  url: security/carrot-domain-security.yml
+- type: LLMsTxt
+  url: llms/carrot-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

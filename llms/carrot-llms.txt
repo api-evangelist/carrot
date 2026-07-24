@@ -1,0 +1,42 @@
+LLM.txt
+
+# Carrot Fertility
+
+> Carrot is the leading global fertility and family-building benefits platform, helping employers, health plans, and members access inclusive, cost-effective, and personalized reproductive care.
+
+Carrot provides fertility and family-forming support across 170+ countries. Our platform empowers people through every stage of their reproductive health journey — from preconception and pregnancy to menopause and parental return to work.
+
+## Core Pages
+
+- [Home](https://www.get-carrot.com): Overview of Carrot’s global fertility and family-building solutions.
+- [For Employers](https://www.get-carrot.com/for-employers): Flexible, comprehensive fertility benefits for global teams.
+- [For Health Plans](https://www.get-carrot.com/for-health-plans): How Carrot supports health plans and drives measurable outcomes.
+- [For Consultants](https://www.get-carrot.com/for-consultants): Tools and data for consultants helping employers add Carrot benefits.
+- [For Members](https://www.get-carrot.com/for-members): Personalized support for fertility, pregnancy, and beyond.
+- [Company](https://www.get-carrot.com/company): Learn more about Carrot’s mission, leadership, and global team.
+
+## Programs & Solutions
+
+- [Carrot Rx Flex Program](https://www.get-carrot.com/blog/carrot-rx-flex-program): A pharmacy solution that lowers fertility medication costs by over 50%.
+- [Carrot Sprints](https://www.get-carrot.com/fertility-benefit-solution/sprints): The first metabolic-fertility program designed to optimize pre-pregnancy health.
+- [Fertility Preservation](https://www.get-carrot.com/journey/fertility-preservation): Support for egg, sperm, or embryo freezing, guiding members through every step of the preservation process.
+- [IVF Support](https://www.get-carrot.com/journey/ivf): Comprehensive IVF support that prioritizes safer, cost-effective pregnancies through single embryo transfer and evidence-based programs.
+- [Gestational Surrogacy](https://www.get-carrot.com/journey/gestational-surrogacy): Expert support for surrogacy journeys, including guidance through financial, legal, and emotional steps of the process.
+- [Adoption Support](https://www.get-carrot.com/journey/adoption): Inclusive adoption assistance for all families, providing access to vetted agencies, legal experts, and emotional support resources.
+- [Men’s Health](https://www.get-carrot.com/journey/mens-health): Comprehensive reproductive health support for men, addressing fertility, hormonal balance, and emotional well-being.
+- [Pregnancy & Postpartum](https://www.get-carrot.com/journey/pregnancy): Global pregnancy and postpartum care offerings for members and employers.
+- [Parenting & Return to Work](https://www.get-carrot.com/journey/parenting-return-to-work): Programs designed to help new parents transition back to work with confidence and support.
+- [Hormonal Health](https://www.get-carrot.com/journey/hormonal-health): Clinical and educational support for menopause and hormonal changes.
+
+## Resources
+
+- [Resource Center](https://www.get-carrot.com/resource-center): Insights, trends, and research on fertility benefits and reproductive health.
+- [Ebooks & Guides](https://www.get-carrot.com/ebooks): Free employer and partner resources including the Fertility Benefits Buyer’s Guide.
+- [Blog](https://www.get-carrot.com/blog): News, updates, and thought leadership from the Carrot team.
+- [Press Releases](https://www.get-carrot.com/press): Official announcements and product launch coverage.
+
+## Global Impact
+
+- Operating in 175+ countries with 17,000+ providers.
+- Supports employers, health plans, and members across every stage of life.
+- Reduces healthcare costs while improving fertility and pregnancy outcomes.
